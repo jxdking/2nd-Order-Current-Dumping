@@ -3,7 +3,12 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "fceaf2a9-5321-4e66-80d7-7553f6dacf10")
-	(paper "A4")
+	(paper "USLetter")
+	(title_block
+		(title "2nd Order Current Dumping")
+		(rev "202610A")
+		(company "jxdking")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:OPA2134"
 			(pin_names
